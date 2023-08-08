@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Redux, Next JS and Jest**
 
-- 👨‍💻 Portfolio Website [https://portfolio-of-alfred-pithu.netlify.app/](https://portfolio-of-alfred-pithu.netlify.app/)
+- 👨‍💻 <a href="https://portfolio-of-alfred-pithu.netlify.app/" target="blank"> Portfolio Website</a>
 
 - 💬 Ask me about **React, Javascript, Tailwind, Express JS, MongoDB**
 
 - 📫 Email me at **alfredpithu@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing](https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
