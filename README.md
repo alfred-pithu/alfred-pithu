@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Alfred Pithu</h1>
-<h3 align="center">A AFrontend focused Full-stack developer who functions on coffee</h3>
+<h3 align="center">Frontend focused Full-stack developer who functions on coffee</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfred-pithu" alt="alfred-pithu" /></a> </p>
+- 🌱 I’m currently learning **Redux, Next JS and Jest**
 
-- 🌱 I’m currently learning **Redux and Next JS**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-of-alfred-pithu.netlify.app/](https://portfolio-of-alfred-pithu.netlify.app/)
+- 👨‍💻 Portfolio Website [https://portfolio-of-alfred-pithu.netlify.app/](https://portfolio-of-alfred-pithu.netlify.app/)
 
 - 💬 Ask me about **React, Javascript, Tailwind, Express JS, MongoDB**
 
-- 📫 How to reach me **alfredpithu@gmail.com**
+- 📫 Email me at **alfredpithu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing](https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing](https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alfredpithu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alfredpithu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/alfredpithu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alfredpithu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16338463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16338463" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alfred-pithu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alfred-pithu" height="30" width="40" /></a>
 </p>
 
@@ -25,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfred-pithu&show_icons=true&locale=en&layout=compact" alt="alfred-pithu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfred-pithu&show_icons=true&locale=en" alt="alfred-pithu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfred-pithu&" alt="alfred-pithu" /></p>
