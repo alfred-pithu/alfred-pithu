@@ -25,4 +25,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfred-pithu&show_icons=true&locale=en&layout=compact" alt="alfred-pithu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfred-pithu&show_icons=true&locale=en" alt="alfred-pithu" /></p>
 
