@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfred Pithu</h1>
 <h3 align="center">A Frontend focused Full-stack developer who functions on coffee</h3>
 
-- 🌱 I’m currently learning **Redux, Next JS and Jest**
+- 🌱 I’m currently learning **Angular, Nest JS, Jest & SQL**
 
 - 👨‍💻 <a href="https://portfolio-of-alfred-pithu.netlify.app/" target="blank"> Portfolio Website</a>
 
