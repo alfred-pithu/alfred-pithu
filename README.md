@@ -2,14 +2,11 @@
 <h3 align="center">A Frontend focused Full-stack developer who functions on coffee</h3>
 
 - 🌱 I’m currently learning **Angular, Nest JS, Jest & SQL**
-
-- 👨‍💻 <a href="https://portfolio-of-alfred-pithu.netlify.app/" target="blank"> Portfolio Website</a>
-
+  
 - 💬 Ask me about **React, Javascript, Tailwind, Express JS, MongoDB**
 
 - 📫 Email me at **alfredpithu@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1aJdPax3Qx3jswsdQEXWq6kUJSeW373_o/view?usp=sharing" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
