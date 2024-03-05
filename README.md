@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfred Pithu</h1>
-<h3 align="center">A Frontend focused Full-stack developer who functions on coffee</h3>
+<h3 align="center">A Full-Stack Developer who functions on coffee</h3>
 
-- 🌱 I’m currently learning **Angular, Nest JS, Jest & SQL**
+
   
-- 💬 Ask me about **React, Javascript, Tailwind, Express JS, MongoDB**
+- 🌱 I Know **Javascript, Typescript, React, Angular, Jest, Express, MongoDB, SQL**
 
 - 📫 Email me at **alfredpithu@gmail.com**
 
