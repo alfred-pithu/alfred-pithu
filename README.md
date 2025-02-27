@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfred Pithu</h1>
-<h3 align="center">A Full-Stack Developer who functions on coffee</h3>
+<h3 align="center">Building Fullstack AI applications</h3>
 
 - 👨‍💻 Currently working at **altercall.ai** as Fullstack AI Engineer
   
