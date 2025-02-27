@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfred Pithu</h1>
 <h3 align="center">A Full-Stack Developer who functions on coffee</h3>
 
-
+- 👨‍💻 Currently working at **altercall.ai** as Fullstack AI Engineer
   
-- 🌱 I Know **Javascript, Typescript, React, Angular, Jest, Express, MongoDB, SQL**
+- 🌱 I Know **Javascript, Typescript, Python, Langchain, Langgraph, RAG, CrewAI, Docker, React, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, Mongoose, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS, AWS Cloudwatch**
 
 - 📫 Email me at **alfredpithu@gmail.com**
 
