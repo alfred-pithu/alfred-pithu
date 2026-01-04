@@ -11,4 +11,3 @@
 - 🌱 I know JavaScript, Typescript, Python, Langchain, Langgraph, Langsmith, AI Agents, RAG, CrewAI, Docker, React, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, Mongoose, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS, AWS Cloudwatch, etc.
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfred-pithu&show_icons=true&locale=en&layout=compact" alt="alfred-pithu" /></p>
