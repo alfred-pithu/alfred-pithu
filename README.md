@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfred Pithu</h1>
 <h3 align="center">Building Fullstack AI applications</h3>
 
-- 👨‍💻 Currently working at <a href="https://www.influur.com" target="_blank" rel="noreferrer">Inlfuur</a>
+- 👨‍💻 Currently working at <a href="https://www.influur.com" target="_blank" rel="noreferrer">Influur</a>
  as an AI Engineer. Building AI Agentic OS for influencer music marketing.
 - 👨‍💻 Worked at <a href="https://marketing.mba" target="_blank" rel="noreferrer">Marketing MBA</a>
  as an AI Application Engineer. Built Cursor for Marketing.
